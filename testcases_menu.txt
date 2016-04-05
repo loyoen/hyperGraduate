@@ -1,0 +1,7 @@
+path:..//testcases//10E10 2 10 10 1 1 1 0 0
+path:..//testcases//50E10 2 10 10 1 1 1 0 0
+path:..//testcases//100E10 2 10 10 1 1 1 0 0
+path:..//testcases//200E10 2 10 10 1 1 1 0 0
+path:..//testcases//400E10 2 10 10 1 1 1 0 0
+path:..//testcases//700E10 2 10 10 1 1 1 0 0
+path:..//testcases//1000E10 2 10 10 1 1 1 0 0

@@ -1,0 +1,7 @@
+Apr 01 20:33:29  4548  now class name: ..//testcases//10E10 2 10 10 1 1 1 0 0
+Apr 01 20:33:29  4548  now class name: ..//testcases//50E10 2 10 10 1 1 1 0 0
+Apr 01 20:33:29  4548  now class name: ..//testcases//100E10 2 10 10 1 1 1 0 0
+Apr 01 20:33:29  4548  now class name: ..//testcases//200E10 2 10 10 1 1 1 0 0
+Apr 01 20:33:29  4548  now class name: ..//testcases//400E10 2 10 10 1 1 1 0 0
+Apr 01 20:33:29  4548  now class name: ..//testcases//700E10 2 10 10 1 1 1 0 0
+Apr 01 20:33:29  4548  now class name: ..//testcases//1000E10 2 10 10 1 1 1 0 0
